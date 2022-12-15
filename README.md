@@ -2,7 +2,7 @@
 
 I'm Data Analyst
 
-- 🌐 Visit my [portfolio website](www.dataluis.com) to get to know me better
+- 🌐 Visit my [portfolio website](https://www.dataluis.com) to get to know me better
 
 ||T|h|i|n|g|s||I||♥||
 |-|-|-|-|-|-|-|-|-|-|-|-|
