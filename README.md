@@ -1,7 +1,7 @@
 ### Hi 👋 I am Luis!
 
 - 😄 I'm a fan of SQL, Python, Excel, Tableau, and Power BI
-- 🌱 I’m a Data Analyst and Data Scientist committed to never stop learning
+- 🌱 I’m a Data Analyst committed to never stop learning
 - 🌐 Visit my [portfolio website](https://www.dataluis.com) to get to know me better
 - 📫 You can reach me at hello@dataluis.com
 
