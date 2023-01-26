@@ -2,7 +2,7 @@
 
 - 😄 I'm a fan of SQL, Python, Excel, Tableau, and Power BI
 - 🌱 I’m a Data Analyst committed to never stop learning
-- 🌐 Visit my [portfolio website](https://www.dataluis.com) to get to know me better
+- 🌐 Visit my [portfolio website](https://www.dataluis.com) if you want to discover more about me
 - 📫 You can reach me at hello@dataluis.com
 
 ||T|h|i|n|g|s||I||♥||
