@@ -1,9 +1,9 @@
 ### Hi 👋 I am Luis!
 
-- 😄 I'm a fan of SQL, Python, Excel, Tableau, and Power BI
-- 🌱 I’m a Data Analyst committed to never stop learning
-- 🌐 Visit my [portfolio website](https://www.dataluis.com) if you want to discover more about me
-- 📫 You can reach me at hello@dataluis.com
+- 😄 I'm a fan of Python, Django, FastAPI, and SQL
+- 🌱 I’m a Backend developer committed to never stop learning
+- 🌐 Visit [lupy.dev](https://lupy.dev) if you want to discover more about me
+- 📫 You can reach me at job@lupy.dev
 
 ||T|h|i|n|g|s||I||♥||
 |-|-|-|-|-|-|-|-|-|-|-|-|
@@ -19,21 +19,3 @@
 ||||`C`|`O`|`D`|`E`||||||
 |||||||`S`||||||
 |||||||||||||
-
-
-
-
-<!--
-**lumiguz/lumiguz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
