@@ -1,9 +1,10 @@
 ### Hi 👋 I am Luis!
 
-- 😄 I'm a fan of [FastAPI](https://fastapi.tiangolo.com/), [SQLModel](https://sqlmodel.tiangolo.com/) & [Reflex](https://reflex.dev/)
+- 😄 I'm a big fan of [FastAPI](https://fastapi.tiangolo.com/), [SQLModel](https://sqlmodel.tiangolo.com/) & [Reflex](https://reflex.dev/)
 - 🌱 I’m a Backend developer committed to never stop learning
-- 🌐 Visit [lugu.dev](https://lugu.dev) if you want to discover more about me
-- 📫 You can reach me at hi@lugu.dev
+- 📫 You can reach me at:
+  - lumigu.dev@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/lugudev)
 
 ||T|h|i|n|g|s||I||❤||
 |-|-|-|-|-|-|-|-|-|-|-|-|
